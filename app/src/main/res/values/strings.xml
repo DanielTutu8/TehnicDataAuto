@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Date Tehnice Auto</string>
+    <string name="button">Button</string>
+    <string name="buuuun">buuuun</string>
+    <string name="embleme">Embleme</string>
+    <string name="cautare_simpla">Cautare simpla</string>
+    <!--<string name="button">Button</string>-->
+    <string name="date_tehnice_auto">Date Tehnice Auto</string>
+</resources>

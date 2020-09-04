@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/alfa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="ALFA ROMEO" />
+
+            <Button
+                android:id="@+id/auudi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="AUDI" />
+
+            <Button
+                android:id="@+id/bmw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="BMW" />
+
+
+            <Button
+                android:id="@+id/bugatti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="BUGATTI" />
+
+            <Button
+                android:id="@+id/chevrolet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="CHEVROLET" />
+
+            <Button
+            android:id="@+id/bentley"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+
+            android:text="BENTLEY" />
+
+            <Button
+                android:id="@+id/citroen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="CITROEN" />
+
+            <Button
+                android:id="@+id/dacia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="DACIA" />
+
+            <Button
+                android:id="@+id/daewoo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="DAEWOO" />
+
+            <Button
+                android:id="@+id/ferarri"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="FERARRI" />
+
+            <Button
+                android:id="@+id/fiat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="FIAT" />
+
+            <Button
+                android:id="@+id/ford"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="FORD" />
+
+            <Button
+                android:id="@+id/honda"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="HONDA" />
+
+            <Button
+                android:id="@+id/hummer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="HUMMER" />
+
+            <Button
+                android:id="@+id/chrysler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="HYUNDAI" />
+
+            <Button
+                android:id="@+id/jaguar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="JAGUAR" />
+
+            <Button
+                android:id="@+id/jeep"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="JEEP" />
+
+            <Button
+                android:id="@+id/lamborghini"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="LAMBORGHINI" />
+
+            <Button
+                android:id="@+id/mazda"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="MAZDA" />
+
+            <Button
+                android:id="@+id/mercedes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="MERCEDES" />
+
+            <Button
+                android:id="@+id/mitsubishi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="MITSUBISHI" />
+
+            <Button
+                android:id="@+id/opel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="OPEL" />
+
+            <Button
+                android:id="@+id/porsche"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="PORSCHE" />
+
+            <Button
+                android:id="@+id/renault"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="RENAULT" />
+
+            <Button
+                android:id="@+id/skoda"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="SKODA" />
+
+            <Button
+                android:id="@+id/tesla"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="TESLA" />
+
+            <Button
+                android:id="@+id/vw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="VOLSKWAGEN" />
+
+            <Button
+                android:id="@+id/volvo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+
+                android:text="VOLVO" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

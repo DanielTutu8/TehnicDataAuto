@@ -1,0 +1,8 @@
+AUDI B9 A4 3000 TDI 122CP=AUDI B9 A4 3000 TDI 122CP                                    Viteza maxima: 204km/h      Volumul rezervorului: 40L      Tipul caroseriei: Sedan
+AUDI B9 A4 3000 TDI 122CP=AUDI B9 A4 3000 TDI 122CP                                    Viteza maxima: 204km/h      Volumul rezervorului: 40L      Tipul caroseriei: Sedan
+
+BMW Seria 3 3200d 190CP=BMW Seria 3 3200d 190CP                                        Viteza maxima: 240km/h      Volumul rezervorului: 40L      Tipul caroseriei: Sedan
+BMW Seria 3 3200d 190CP=BMW Seria 3 3200d 190CP                                        Viteza maxima: 240km/h      Volumul rezervorului: 40L      Tipul caroseriei: Cabrio
+
+BMW Seria 5 3200d 190CP=BMW Seria 5 3200d 190CP                                        Viteza maxima: 240km/h      Volumul rezervorului: 40L      Tipul caroseriei: Sedan
+BMW Seria 5 4200d 190CP=BMW Seria 5 4200d 190CP                                        Viteza maxima: 250km/h      Volumul rezervorului: 40L      Tipul caroseriei: Break

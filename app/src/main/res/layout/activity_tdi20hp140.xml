@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tdi20hp140">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbarStyle="insideOverlay">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:lineSpacingExtra="8sp"
+                android:text="Brand:	Audi \n
+    Generation:	A3 (8P, facelift 2008) \n
+    Modification: (Engine)	2.0 TDI (140 Hp) DPF \n
+    Power:	140 hp/4000 rpm \n
+    Maximum speed:	207 km/h \n
+    Acceleration: 0 - 100 km/h	9.5 sec\n
+    Fuel tank volume:	55 l\n
+    Year of putting into production:	2008 year\n
+        Year of stopping production:	2013 year\n
+        Coupe type:	Hatchback\n
+        Seats:	5\n
+        Length:	4238 mm.\n
+        Width:	1765 mm.\n
+        Height:	1421 mm.\n
+        Wheelbase:	2578 mm.\n
+        Front track: 1536 mm.\n
+        Rear (Back) track:	1517 mm.\n
+        Minimum volume of Luggage (trunk):	350 l\n
+        Maximum volume of Luggage (trunk):	1100 l\n
+        Position of engine:	Front, transversely\n
+        Engine displacement:	1968 cm3 \n
+        Torque:	320 Nm/1750 rpm.\n
+        Fuel System:	Diesel Commonrail\n
+        Turbine:	Turbocharger\n
+        Valvetrain:	DOHC\n
+        Position of cylinders:	Inline\n
+        Number of cylinders:	4\n
+        Cylinder Bore:	81 mm.\n
+        Piston Stroke:	95.5 mm.\n
+        Compression ratio:	18
+        Number of valves per cylinder:	4\n
+        Fuel Type:	Diesel\n
+        Drive wheel:	Front wheel drive\n
+        Number of Gears (manual transmission):	6\n
+        Front suspension:	The depreciated rack\n
+        Rear suspension:	Helical spring\n
+        Front brakes:	Ventilated discs\n
+        Rear brakes:	Disc\n
+        ABS:	yes\n
+        Steering type:	Steering rack\n
+        Power steering	Hydraulic Steering\n
+        Minimum turning circle (turning diameter)	10.7 m\n
+        Fuel consumption (economy) - urban	6.7 l/100 km.\n
+        Fuel consumption (economy) - extra urban	4.2 l/100 km.\n
+        Fuel consumption (economy) - combined	5.1 l/100 km.\n
+        Emission standard	EURO IV\n
+        Kerb Weight	1415 kg.\n
+        Max. weight	1900 kg.\n
+        Tire size	205/55 R16; 225/45 R17\n
+        Wheel rims size	7.5J x 17, 6.5J x 16"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:ignore="MissingConstraints,Suspicious0dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tehnicdataauto">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BmwX1"></activity>
+        <activity android:name=".Bmw5er" />
+        <activity android:name=".Bmw3er" />
+        <activity android:name=".Dacia" />
+        <activity android:name=".Bmw" />
+        <activity android:name=".AlfaGiulia20200" />
+        <activity android:name=".AlfaGiulia22180" />
+        <activity android:name=".AlfaGiulia20awd280" />
+        <activity android:name=".AlfaGiulia29v6" />
+        <activity android:name=".AlfaGiulia" />
+        <activity android:name=".Alfa" />
+        <activity android:name=".Search" />
+        <activity android:name=".Anii2008_2013" />
+        <activity android:name=".Tdi20hp140" />
+        <activity android:name=".caroserieBreak" />
+        <activity android:name=".caroserieCabrio" />
+        <activity android:name=".caroserieH" />
+        <activity android:name=".tipA3" />
+        <activity android:name=".tipA4" />
+        <activity android:name=".model" />
+        <activity android:name=".Embleme" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
