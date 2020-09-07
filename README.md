@@ -6,4 +6,7 @@ TehnicDataAuto applicantion with Android Studio
 can find all the tehnical details regarding this car
   Also, there is a search button, if you want for example to search for all the cars that have the length bigger than 5 meters.
   
-  As i said, it is just a prototype, and I just added a car or two, but I wanted to make the functionaity work 
+  As i said, it is just a prototype, and I just added a car or two, but I wanted to make the functionaity work.
+  
+  Cheers!
+  
